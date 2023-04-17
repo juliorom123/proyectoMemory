@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<libros>
+	<libro>
+		<cod_libro>1</cod_libro>
+		<titulo>Don Quijote de la Mancha</titulo>
+		<editorial>Juan de la Cuesta</editorial>
+		<edicion>3</edicion>
+		<isbn>978466745840</isbn>
+		<num_paginas>176</num_paginas>
+		<autores>
+			<autor>
+				<cod_autor>1</cod_autor>
+				<nombre>Miguel</nombre>
+				<apellidos>de Cervantes Saavedra</apellidos>
+				<fecha_nac>29/09/1547</fecha_nac>
+			</autor>
+		</autores>
+	</libro>
+	<libro>
+		<cod_libro>2</cod_libro>
+		<titulo>La Celestina</titulo>
+		<editorial>Maxtor</editorial>
+		<edicion>1</edicion>
+		<isbn>9788471664938</isbn>
+		<num_paginas>320</num_paginas>
+		<autores>
+			<autor>
+				<cod_autor>2</cod_autor>
+				<nombre>Fernando</nombre>
+				<apellidos>de Rojas</apellidos>
+				<fecha_nac>01/01/1470</fecha_nac>
+			</autor>
+		</autores>
+	</libro>
+	<libro>
+		<cod_libro>3</cod_libro>
+		<titulo>Leyendas</titulo>
+		<editorial>Cátedra</editorial>
+		<edicion>21</edicion>
+		<isbn>9788437620244</isbn>
+		<num_paginas>416</num_paginas>
+		<autores>
+			<autor>
+				<cod_autor>3</cod_autor>
+				<nombre>Gustavo</nombre>
+				<apellidos>Adolfo Bécquer</apellidos>
+				<fecha_nac>17/02/1836</fecha_nac>
+			</autor>
+		</autores>
+	</libro>
+</libros>
